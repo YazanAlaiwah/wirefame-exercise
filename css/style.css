@@ -29,6 +29,9 @@ a {
   text-decoration: none;
   font-weight: bold;
 }
+a:hover {
+  color: #ffffff;
+}
 .main-img {
   width: 960px;
   height: 450;
